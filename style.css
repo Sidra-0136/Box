@@ -18,20 +18,21 @@ header {
   text-decoration: none;
   color: #FBF8F8;
   font-family: serif;
-  font-size: 15px;
+  font-size: 10px;
   
 }
 
 .main-title {
   font-family: serif;
-  font-size: 40px;
+  font-size: 20px;
   font-weight: bold;
+  padding-left: 2px;
 }
 
 .sub-title {
   font-family: serif;
   color: #646464;
-  padding-left: 10px;
-  padding-bottom: 10px;
-  font-size: 20px;
+  padding-left: 14px;
+  padding-bottom: 14px;
+  font-size: 12px;
 }
